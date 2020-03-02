@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="item1">旋转</string>
+    <string name="item2">缩放</string>
+    <string name="item3">移动</string>
+    <string name="imageDes">图片</string>
+    <string name="imageText">缩放</string>
+</resources>
